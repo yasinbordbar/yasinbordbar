@@ -1,4 +1,4 @@
-Hi, I’m @yasinbordbar, I’m currently learning JS
+Hi, I’m @yasinbordbar, a Full Stack JS Developer.
 
 
 ![](https://www.codewars.com/users/yasinbordbar/badges/large)
