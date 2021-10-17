@@ -10,13 +10,20 @@
 <p align="center">
         <br />
 
-  <img align="center" src="https://stackoverflow.com/users/flair/14199632.png?theme=dark" width="208" height="58" alt="profile for Yasin Br at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yasin Br at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+ <a href="https://stackoverflow.com/users/14199632/yasin-br">
+    <img align="center" src="https://stackoverflow.com/users/flair/14199632.png?theme=dark" width="208" height="58" alt="profile for Yasin Br at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yasin Br at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+ </a>
     <br />
       <br />
 
+  <a href="https://www.codewars.com/users/yasinbordbar">
   <img src="https://www.codewars.com/users/yasinbordbar/badges/large">
+ </a>
   <br />
     <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasinbordbar&theme=flat&margin-w=15">
+  <a href="https://github.com/yasinbordbar">
+ <img src="https://github-profile-trophy.vercel.app/?username=yasinbordbar&theme=flat&margin-w=15">
+
+ </a>
 </p>
