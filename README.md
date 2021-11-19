@@ -1,6 +1,4 @@
 
-[![Header](/header.png "Header")](https://yasinbr.vercel.app/)
----
  <samp>
 Creative Front-end Developer with 3+ years of experience leveraging JavaScript to build cutting-edge websites and interactive features that drive business growth and improve UX. Highly motivated individual dedicated to writing clear, concise, robust code. Skilled in developing and testing multiple web-based applications incorporating a range of technologies.  Specializes in JavaScript, TypeScript, React, Next and responsive design.
 
