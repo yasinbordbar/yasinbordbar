@@ -17,7 +17,6 @@ Creative Front-end Developer with 3+ years of experience leveraging JavaScript t
   <img src="https://www.codewars.com/users/yasinbordbar/badges/large">
  </a>
   <br />
-    <br />
 
 
 </p>
