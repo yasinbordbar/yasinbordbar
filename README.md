@@ -19,10 +19,7 @@ Creative Front-end Developer with 3+ years of experience leveraging JavaScript t
   <br />
     <br />
 
-  <a href="https://github.com/yasinbordbar">
- <img src="https://github-profile-trophy.vercel.app/?username=yasinbordbar&theme=flat&margin-w=15">
 
- </a>
 </p>
 
 
