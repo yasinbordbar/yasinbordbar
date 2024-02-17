@@ -1,5 +1,5 @@
  <samp>
-Creative Front-end Developer with 4+ years of experience leveraging JavaScript to build cutting-edge websites and interactive features that drive business growth and improve UX. Highly motivated individual dedicated to writing clear, concise, robust code. Skilled in developing and testing multiple web-based applications incorporating a range of technologies.  Specializes in JavaScript, TypeScript, React, Next and responsive design.
+Experienced Software Developer with 5 years of delivering high‑quality web solutions, aimed at enhancing business efficiency and user experience. Specializes in writing clear, concise code and optimizing web applications for performance. Proficient in JavaScript, TypeScript, React, Next.js, and responsive design. Proven ability to work in diverse and multicultural environments, contributing to team accomplishments through effective collaboration.
 
   </samp>
   <br />
